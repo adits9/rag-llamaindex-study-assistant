@@ -47,4 +47,3 @@ python ingest.py --rebuild
 Troubleshooting:
 
 - If package installation for `faiss-cpu` fails on macOS, you can remove it from `requirements.txt` and use the default LlamaIndex vector store (which may be slower). Alternatively, install faiss via conda: `conda install -c pytorch faiss-cpu`.
-# rag-llamaindex-study-assistant
