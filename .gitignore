@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+
+# Byte-compiled / cache
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# PyCharm
+.idea/
